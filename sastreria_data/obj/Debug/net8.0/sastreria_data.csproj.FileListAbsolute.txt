@@ -1,0 +1,14 @@
+C:\pan\proyecto\sastreria_data\bin\Debug\net8.0\sastreria_data.deps.json
+C:\pan\proyecto\sastreria_data\bin\Debug\net8.0\sastreria_data.runtimeconfig.json
+C:\pan\proyecto\sastreria_data\bin\Debug\net8.0\sastreria_data.dll
+C:\pan\proyecto\sastreria_data\bin\Debug\net8.0\sastreria_data.pdb
+C:\pan\proyecto\sastreria_data\obj\Debug\net8.0\sastreria_data.csproj.AssemblyReference.cache
+C:\pan\proyecto\sastreria_data\obj\Debug\net8.0\sastreria_data.GeneratedMSBuildEditorConfig.editorconfig
+C:\pan\proyecto\sastreria_data\obj\Debug\net8.0\sastreria_data.AssemblyInfoInputs.cache
+C:\pan\proyecto\sastreria_data\obj\Debug\net8.0\sastreria_data.AssemblyInfo.cs
+C:\pan\proyecto\sastreria_data\obj\Debug\net8.0\sastreria_data.csproj.CoreCompileInputs.cache
+C:\pan\proyecto\sastreria_data\obj\Debug\net8.0\sastreria_data.dll
+C:\pan\proyecto\sastreria_data\obj\Debug\net8.0\refint\sastreria_data.dll
+C:\pan\proyecto\sastreria_data\obj\Debug\net8.0\sastreria_data.pdb
+C:\pan\proyecto\sastreria_data\obj\Debug\net8.0\sastreria_data.genruntimeconfig.cache
+C:\pan\proyecto\sastreria_data\obj\Debug\net8.0\ref\sastreria_data.dll
